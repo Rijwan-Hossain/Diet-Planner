@@ -45,10 +45,8 @@ class Home extends Component {
                             <strong>—Aristotle</strong>
                         </h1>
                     </div>
-                </div> 
 
-                <div>
-                <div className="mb-5">
+                    <div className="mb-5">
                         <h1 style={{ fontSize: '45px' }} className="text-center mb-4 text-dark display-4">
                             Message From Atheletics
                     </h1>
@@ -85,22 +83,19 @@ class Home extends Component {
                                     <h5 style={{ fontSize: '22px' }} className="card-title text-center display-4">
                                         <strong> Mr. Bangladesh (2015)<br />
                                             Hasib Mohammad
-                                    </strong> 
-                                    </h5> 
+                                    </strong>
+                                    </h5>
                                     <p className="card-text text-justify">
                                         Always do your best to get what you want to be.
-                                </p> 
-                                </div> 
-                            </div> 
-                        </div> 
-                    </div> 
-                </div>
-                
-                <div>
+                                </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                     <div className="bg-dark" style={{ height: '50px' }}>
                         <p style={{ lineHeight: '35px' }} className="text-center text-white">
                             Copyright || Automated Diet Planner
-                        </p> 
+                    </p>
                     </div>
                 </div>
             </div>
