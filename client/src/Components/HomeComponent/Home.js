@@ -91,13 +91,13 @@ class Home extends Component {
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div className="bg-dark" style={{ height: '50px' }}>
-                        <p style={{ lineHeight: '35px' }} className="text-center text-white">
-                            Copyright || Automated Diet Planner
-                    </p>
-                    </div>
-                </div>
+                    </div> 
+                </div> 
+                <div className="bg-dark" style={{ height: '50px' }}>
+                    <p style={{ lineHeight: '35px' }} className="text-center text-white">
+                        Copyright || Automated Diet Planner
+                    </p> 
+                </div> 
             </div>
         );
     }
