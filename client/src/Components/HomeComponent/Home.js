@@ -93,7 +93,7 @@ class Home extends Component {
                         </div>
                     </div> 
                 </div> 
-                <div className="bg-dark" style={{ height: '50px' }}>
+                <div className="bg-dark" style={{ height: '50px', padding: '0px', margin: '0px' }}>
                     <p style={{ lineHeight: '50px', overflow: 'hidden' }} className="text-center text-white">
                         Copyright || Automated Diet Planner
                     </p> 
