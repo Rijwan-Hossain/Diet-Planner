@@ -14,7 +14,7 @@
     "react-dom": "^16.8.6",
     "react-material-snackbar": "^3.0.1",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "3.0.1",
+    "react-scripts": "3.4.4",
     "react-toastify": "^5.1.0",
     "reactstrap": "^8.0.0"
   },
